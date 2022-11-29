@@ -1,3 +1,3 @@
-## Future home of the BinRec project, released for the publication "BinRec: Dynamic Binary Lifting and Recompilation" in EUROSYS 2020.
+### BinRec
 
-## Please contact the UCI team for early access to the source code. 
+Source code for the EUROSYS 2020 publication titled, "BinRec: Dynamic Binary Lifting and Recompilation" is now available [here](https://github.com/trailofbits/binrec-tob).
